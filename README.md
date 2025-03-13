@@ -23,11 +23,15 @@ This project focuses on **cleaning and standardizing messy datasets** using **Py
 
 ---
 
-## 📝 Key Cleaning Tasks
-✔ **Handled missing values** (`NaN`, `"N/A"`, `"None"`)
-✔ **Standardized phone numbers** to **`(XXX) XXX XXXX`** format  
-✔ **Removed invalid phone numbers** and ensured correct length  
-✔ **Saved cleaned data as both CSV and Excel files**  
+📝 Key Cleaning Tasks
+
+✔ Handled missing values (NaN, "N/A", "None")
+
+✔ Standardized phone numbers to (XXX) XXX XXXX format
+
+✔ Removed invalid phone numbers and ensured correct length
+
+✔ Saved cleaned data as both CSV and Excel files
 
 ---
 
