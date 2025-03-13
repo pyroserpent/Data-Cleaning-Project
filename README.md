@@ -31,8 +31,9 @@ This project focuses on **cleaning and standardizing messy datasets** using **Py
 
 ✔ Removed invalid phone numbers and ensured correct length
 
-✔ Saved cleaned data as both CSV and Excel files
+✔ Cleaned names by removing special characters and numbers
 
+✔ Saved cleaned data as both CSV and Excel files
 ---
 
 ## 🚀 How to Use
