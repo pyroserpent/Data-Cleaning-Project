@@ -56,8 +56,8 @@ clean_phone_number("123-456-7890")  # Output: (123) 456 7890
 
 ## 📊 Sample Cleaned Data
 The cleaned dataset is available in:
-- 📄 [`customer_call_cleaned_data.csv`](customer_call_cleaned_data.csv)
-- 📄 [`customer_call_cleaned_data.xlsx`](customer_call_cleaned_data.xlsx)
+- 📄 [`customer_call_cleaned_data.csv`](https://github.com/pyroserpent/Data-Cleaning-Project/blob/main/data/customer_call_cleaned_data.csv)
+- 📄 [`customer_call_cleaned_data.xlsx`](https://github.com/pyroserpent/Data-Cleaning-Project/blob/main/data/customer_call_cleaned_data.xlsx)
 
 **Example of Before & After Data Cleaning:**
 
