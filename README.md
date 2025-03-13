@@ -54,6 +54,29 @@ clean_phone_number("123-456-7890")  # Output: (123) 456 7890
 
 ---
 
+## 📊 Sample Cleaned Data
+The cleaned dataset is available in:
+- 📄 [`customer_call_cleaned_data.csv`](customer_call_cleaned_data.csv)
+- 📄 [`customer_call_cleaned_data.xlsx`](customer_call_cleaned_data.xlsx)
+
+**Example of Before & After Data Cleaning:**
+
+| Name     | Phone Number        | Address                 |
+|----------|--------------------|-------------------------|
+| John Doe | 1 (800) 555-0199   | 123 Main St, NY        |
+| Alice B. | 987-654-3210 ext 7 | 456 Elm St, LA         |
+| Mike T.  | N/A                | 789 Pine St, SF        |
+
+🔽 **After Cleaning** 🔽
+
+| Name     | Phone Number       | Address                 |
+|----------|-------------------|-------------------------|
+| John Doe | (800) 555 0199    | 123 Main St, NY        |
+| Alice B. | (987) 654 3210    | 456 Elm St, LA         |
+| Mike T.  | None              | 789 Pine St, SF        |
+
+---
+
 ## 📝 Author
 👤 **Ziaul Chowdhury**  
 👉 [GitHub Profile](https://github.com/pyroserpent)  
